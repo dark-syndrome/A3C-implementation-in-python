@@ -9,3 +9,4 @@ Train the model using train.py
 Test the model using test.py
 
 You can also watch my video on youtube to get an idea of the bigger picture and help with running the code files;
+https://youtu.be/tahPMzJjn0g
