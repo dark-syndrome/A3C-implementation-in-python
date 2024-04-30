@@ -1,5 +1,5 @@
 # A3C-implementation-in-python
-This is a clean implementation of A3C algorithm in pyhton using pytorch
+This is a clean implementation of A3C algorithm in python using pytorch
 
 The dependencies that you need to install are:
 Installing all the necessary libraries with appropriate version. The key is to keep running and handling the errors until you find the appropriate version.
